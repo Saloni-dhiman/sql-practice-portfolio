@@ -1,0 +1,10 @@
+shift_id,shift_time,staff_count,experience_level,workload_level
+S001,Night,3,Junior-heavy,High
+S002,Morning,5,Junior-heavy,Low
+S003,Afternoon,3,Mixed,Medium
+S004,Morning,4,Mixed,Medium
+S005,Afternoon,5,Junior-heavy,Low
+S006,Morning,5,Senior-heavy,Very low
+S007,Night,2,Junior-heavy,Very high
+S008,Afternoon,2,Junior-heavy,Very high
+S009,Afternoon,5,Senior-heavy,Very low
